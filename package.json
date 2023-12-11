@@ -1,0 +1,18 @@
+{
+    "name": "login-signup-mongobd-backend",
+    "version": "1.0.0",
+    "description": "Express applications for MongoDB APIs",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node app.js --omit=dev",
+      "prod-install": "npm install --omit=dev"
+    },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3"
+  }
+}
