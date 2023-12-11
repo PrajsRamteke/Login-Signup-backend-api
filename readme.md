@@ -16,7 +16,7 @@ This project is a simple Node.js Express API for user authentication, including 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/PrajsRamteke/Login-Signup-backend-api.git
    ```
 
 2. Navigate to the project directory:
